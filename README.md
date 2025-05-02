@@ -1,9 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I study stereotyping of large- and vision-language models
-- 🌱 A PhD Candidate in Computational and Data Sciences at WashU
-- 👯 I’m looking to collaborate on any related projects!
-- 📫 How to reach me: Send me an email! hojunlee[at]wustl[dot]edu
+- 🌱 PhD in Computational and Data Sciences at WashU
+- 📫 How to reach me: Send me an email! hojunlee1012[at]gmail[dot]com
 
 <!--
 **lee-messi/lee-messi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
