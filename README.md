@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 - 🔭 I study stereotyping of large- and vision-language models
-- 🌱 PhD in Computational and Data Sciences at WashU
+- 🌱 PhD in Computational and Data Sciences from WashU
+- 🔭 Currently working on projects related to AI in Digital Pathology
 - 📫 How to reach me: Send me an email! hojunlee1012[at]gmail[dot]com
 
 <!--
