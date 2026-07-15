@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I study stereotyping of large- and vision-language models
+- 🔭 I study social psychology of ai and, more broadly, machine psychology
 - 🌱 PhD in Computational and Data Sciences from WashU
 - 🔭 Currently working on projects related to AI in Digital Pathology
-- 📫 How to reach me: Send me an email! hojunlee1012[at]gmail[dot]com
+- 📫 How to reach me: Send me an email! messihjlee[at]gmail[dot]com
 
 <!--
 **lee-messi/lee-messi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
